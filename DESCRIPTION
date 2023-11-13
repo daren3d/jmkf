@@ -1,0 +1,11 @@
+Package: jmp
+Title: Joint model-based proximity
+Version: 0.0.0.9000
+Authors@R: 
+    person("Daren", "Kuwaye", , "daren-kuwaye@uiowa.edu", role = c("aut", "cre"))
+Description: Clusters functional data with six responses.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: dplyr, cluster, splines, lmf, mvtnorm
